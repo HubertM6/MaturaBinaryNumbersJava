@@ -1,0 +1,6 @@
+12/07/2023 20:31:48;TestTaskThreeMaturaExample;True;0.001
+12/07/2023 20:31:48;TestTaskThreeMaturaOfficial;True;0.003
+12/07/2023 20:31:48;TestTaskThreeBig;True;0.569
+12/07/2023 20:31:48;TestTaskThreeMax;True;1.07
+12/07/2023 20:31:48;TestTaskThreeOnlyZero;True;0.002
+12/07/2023 20:31:48;TestTaskThreeOnlyOne;True;0.001

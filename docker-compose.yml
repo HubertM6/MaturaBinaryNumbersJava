@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  env:
+    image: maven:latest
+    command: [ "sh", "-c", "
+        cd code;
+        mvn clean test;
+      " ]
+    volumes:
+    - .:/code

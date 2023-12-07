@@ -1,0 +1,6 @@
+12/07/2023 20:31:48;TestTaskTwoMaturaExample;True;0.001
+12/07/2023 20:31:48;TestTaskTwoMaturaOfficial;True;0.003
+12/07/2023 20:31:48;TestTaskTwoBig;True;0.597
+12/07/2023 20:31:48;TestTaskTwoMax;True;1.034
+12/07/2023 20:31:48;TestTaskTwoOnlyZero;True;0.001
+12/07/2023 20:31:48;TestTaskTwoOnlyOne;True;0.001
